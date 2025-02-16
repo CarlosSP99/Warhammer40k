@@ -1,0 +1,73 @@
+{
+  "listado": [
+    {
+      "name": "Garviel Loken",
+      "chapter": "Lobos Espaciales",
+      "armortype": "Armadura de explorador",
+      "loyalty": "Leal",
+      "image": "https://i.imgur.com/vk2FGev.png",
+      "faction": {
+        "id": 1,
+        "faction": "Imperio",
+        "subfaction": "Adeptus Astartes"
+      },
+      "book": "Horus Heresy"
+    },
+    {
+      "name": "Lucius el eterno",
+      "chapter": "Hijos del Emperador",
+      "armortype": "Armadura de disforme",
+      "loyalty": "Traidor",
+      "image": "https://i.imgur.com/o9foNTw.png ",
+      "faction": {
+        "id": 2,
+        "faction": "Caos",
+        "subfaction": "Marines espaciales del Caos"
+      },
+      "book": "Horus Heresy"
+    },
+    {
+      "name": "Saul Tarviz",
+      "chapter": "Hijos del emperador",
+      "armortype": "Armadura Artesanal",
+      "loyalty": "Leal",
+      "image": "https://i.imgur.com/FNpmcdE.jpg",
+      "faction": {
+        "id": 1,
+        "faction": "Imperio",
+        "subfaction": "Adeptus Astartes"
+      },
+      "book": "Horus Heresy"
+    },
+    {
+      "name": "Abaddon el Saqueador",
+      "chapter": "Legión Negra",
+      "armortype": "Armadura de exterminador",
+      "loyalty": "Traidor",
+      "image": "https://i.imgur.com/9W5qLCS.png",
+      "faction": {
+        "id": 2,
+        "faction": "Caos",
+        "subfaction": "Marines espaciales del Caos"
+      },
+      "book": "Horus Heresy"
+    },
+    {
+      "name": "Nathaniel Garro",
+      "chapter": "Guardia de la Muerte",
+      "armortype": "Servoarmadura",
+      "loyalty": "Leal",
+      "image": "https://i.imgur.com/LCqGlBQ.png?1",
+      "faction": {
+        "id": 1,
+        "faction": "Imperio",
+        "subfaction": "Adeptus Astartes"
+      },
+      "book": "Horus Heresy"
+    }
+
+
+
+  ]
+}
+
